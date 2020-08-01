@@ -5,7 +5,7 @@
 ### where you find me
 
 _Personal_
-* :page_with_curl: Linkedin (https://www.linkedin.com/in/josue-rodriguez-752138191/)** :v:
+* :page_with_curl: Linkedin **[Josue Rodriguez](https://www.linkedin.com/in/josue-rodriguez-752138191/)** :v:
 * :page_with_curl: WebSite **[Works](http://josuerodriguez.netlify.app/)** :v:
 * :page_with_curl: Instagram **[Instagram](https://www.instagram.com/josue_rodriguezd/)** :v:
 
