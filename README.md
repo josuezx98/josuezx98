@@ -2,7 +2,7 @@
 
 ## Hello! I'm Josue Rodriguez, web developer from Argentina. I have extensive experience in the design and building of web applications.
 
-### where you find me
+### where to find me
 
 _Personal_
 * :page_with_curl: Linkedin **[Josue Rodriguez](https://www.linkedin.com/in/josue-rodriguez-752138191/)** :v:
