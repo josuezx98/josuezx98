@@ -1,13 +1,12 @@
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
-## Hello! I'm Hebert Villafuerte, web developer from Arequipa. I have extensive experience in the design and building of web applications.
+## Hello! I'm Josue Rodriguez, web developer from Argentina. I have extensive experience in the design and building of web applications.
 
-### Donde me puedes encontrar
+### where you find me
 
 _Personal_
-* :star::blush: A veces me vuelvo Youtuber DEV **[Videos](https://www.youtube.com/channel/UCvVxuO28XPe-fC6khHyAA_Q)** :v:
-* :star::blush: Mi sitio web **[Works](https://hebertdev.tk/works)** :v:
-* :star::blush: Fotos, tips y memes **[Instagram](https://www.instagram.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/hebertdev1)** :v:
-* :star::blush: Algo que no uso x2 **[Twitter](https://twitter.com/hebertdev1)** :v:
+* :page_with_curl: Linkedin (https://www.linkedin.com/in/josue-rodriguez-752138191/)** :v:
+* :page_with_curl: WebSite **[Works](http://josuerodriguez.netlify.app/)** :v:
+* :page_with_curl: Instagram **[Instagram](https://www.instagram.com/josue_rodriguezd/)** :v:
+
 
