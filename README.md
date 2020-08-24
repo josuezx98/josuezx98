@@ -4,7 +4,7 @@
 
 ### where to find me
 
-_Personal_
+
 * :page_with_curl: Linkedin **[Josue Rodriguez](https://www.linkedin.com/in/josue-rodriguez-752138191/)** :v:
 * :page_with_curl: WebSite **[Works](https://josuerodriguezresume.netlify.app)** :v:
 
